@@ -1,0 +1,2 @@
+test git status command
+status git 2
